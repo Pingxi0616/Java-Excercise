@@ -3,5 +3,6 @@ public class FirstClass4Team{
         System.out.println("這是用來練習GitHub協作的程式!");
         System.out.println("\"學號：\"01357149\"\n姓名：\"林品希\"");
         System.out.println("\"學號：\"01157016\"\n姓名：\"鍾佳芯\"");
+        System.out.println("\"學號：\"01157067\"\n姓名：\"丘浩泓\"");
     }
 }
